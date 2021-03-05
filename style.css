@@ -1165,12 +1165,18 @@ a {
     flex-wrap: wrap;
 }
 .list-footer {
-    margin: 0 35px;
+    margin: 0;
     height: 50px;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.part-title {
+    justify-content: center;
+    text-transform: uppercase;
+    align-items: center;
+    display: flex;
 }
 /*
 #F3976C
