@@ -1159,10 +1159,10 @@ a {
 }
 
 .ul-footer {
+    width: 100%;
     display: flex;
-    justify-content: center;
     align-items: center;
-    flex-direction: row;
+    flex-wrap: wrap;
 }
 .list-footer {
     margin: 0 35px;
